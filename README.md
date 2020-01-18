@@ -1,8 +1,8 @@
-# OmniStack10
+# SemanaOmniStack10
 
 ## 💡 ideia
 
-O repositório OmniStack10, foi criado para ser o repositório onde irei guardar o código desenvolvido e tecnologias aprendidas durante a [10° Semana OmniStack](https://rocketseat.com.br/week-10/aulas) da [RocketSeat](https://rocketseat.com.br/). Nessa edição será desenvolvido uma aplicação para procurarmos Devs próximos de nós, sendo assim, possível acessar o GitHub desses Devs, com a intenção de conhece-los. A aplicação terá uma Back-End duas interfaces, sendo elas, web e mobile.
+O repositório SemanaOmniStack10, foi criado para ser o repositório onde irei guardar o código desenvolvido e tecnologias aprendidas durante a [10° Semana OmniStack](https://rocketseat.com.br/week-10/aulas) da [RocketSeat](https://rocketseat.com.br/). Nessa edição será desenvolvido uma aplicação para procurarmos Devs próximos de nós, sendo assim, possível acessar o GitHub desses Devs, com a intenção de conhece-los. A aplicação terá uma Back-End duas interfaces, sendo elas, web e mobile.
 
 ## 🚀 RocketSeat
 
