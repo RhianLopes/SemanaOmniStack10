@@ -10,7 +10,7 @@ A [RocketSeat](https://rocketseat.com.br/) é uma empresa que fornece cursos onl
 
 ## 👀 Vizualização
 
-### Web
+### Web:
 
 ![](https://cdn.discordapp.com/attachments/576875163686010911/668592810286514206/OmniStack10WebGIF.gif)
 
@@ -23,7 +23,7 @@ A [RocketSeat](https://rocketseat.com.br/) é uma empresa que fornece cursos onl
 
 ## 🛠 Inicialização
 
-### Api
+### Api:
 
 Para iniciarmos a nossa ```api```, é necessário fazer uma conta no [Compass | MongoDB](https://www.mongodb.com/download-center/compass) e fazer o download do [MongoDB Compass](https://www.mongodb.com/products/compass), feito isso, devemos criar um novo Cluster. Com o Cluster já criado, ir em ```CONNECT```:
 
@@ -57,7 +57,7 @@ Agora, é necessário fazer o download do [yarn](https://yarnpkg.com/lang/en/), 
 yarn dev
 ```
 
-### Web
+### Web:
 
 Para rodar o projeto Web, basta fazer o download o [yarn](https://yarnpkg.com/lang/en/), ir até a pasta ```SemanaOmniStack > web``` e rodar os comandos
 
