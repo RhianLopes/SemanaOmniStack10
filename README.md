@@ -12,7 +12,7 @@ A [RocketSeat](https://rocketseat.com.br/) é uma empresa que fornece cursos onl
 
 ### Web
 
-![](https://cdn.discordapp.com/attachments/576875163686010911/668591921312170014/OmniStack10WebGIF.gif)
+![](https://cdn.discordapp.com/attachments/576875163686010911/668592810286514206/OmniStack10WebGIF.gif)
 
 ## 🔥 Tecnologias
 
